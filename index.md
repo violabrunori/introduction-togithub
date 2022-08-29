@@ -1,12 +1,14 @@
-![Image of Octocat dressed as Waldo](https://octodex.github.com/images/waldocat.png)
-# <h1> Bigger header 
-## <h6> Smaller header 
+# <h1> Where's Wally?
+## <h4> Find Octocat dressed as Wally
+  
+![Image of Octocat dressed as Wally](https://octodex.github.com/images/waldocat.png)
   
 ```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+Code example
 ```
   
-- [ ] read the instruction
-- [ ] create a bullet point list
-- [ ] use the preview tab to see if it works
+- [x] read the instruction
+- [x] create a bullet point list
+- [x] use the preview tab to see if it works
+- [ ] see how the page looks
+  
