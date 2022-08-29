@@ -1,5 +1,5 @@
-# <h1> Where's Wally?
-## <h4> Find Octocat dressed as Wally
+# Where's Wally?
+## Find Octocat dressed as Wally
   
 ![Image of Octocat dressed as Wally](https://octodex.github.com/images/waldocat.png)
   
